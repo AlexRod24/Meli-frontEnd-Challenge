@@ -25,9 +25,6 @@ de presionar sobre cualquiera de los 4 items de la vista 2.
 
 <br />
 <br />
----------------------------------------
-<br />
-<br />
 
 ## El Front: visualización
 Este Proyecto se puede inicializar desde el root con:
@@ -41,11 +38,7 @@ Abrí [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 Se puede ver un video de prueba y ejemplo del sitio en el siguiente link:
 - [Front del Productos](docs/front.mp4)
 
-
 <br />
--------------
-<br />
-
 
 ## El Back: visualización
 Este Proyecto se puede inicializar desde la carpeta "api" con:
@@ -65,9 +58,6 @@ Se puede ver un video de prueba y ejemplo del sitio en el siguiente link:
 
 <br />
 <br />
----------------------------------------
-<br />
-<br />
 
 ## Docs
 - [query-string](https://www.npmjs.com/package/query-string)
@@ -77,6 +67,3 @@ Se puede ver un video de prueba y ejemplo del sitio en el siguiente link:
 - [react-scripts](https://www.npmjs.com/package/react-scripts)
 - [react-router-dom](https://reactrouter.com/)
 - [react-loader-spinner](https://www.npmjs.com/package/react-loader-spinner)
-
-
-
