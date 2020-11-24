@@ -1,0 +1,8 @@
+{
+  "short_name": "Test Meli",
+  "name": "Challenge Mercado Libre",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff159",
+  "background_color": "#f6f6f6"
+}
